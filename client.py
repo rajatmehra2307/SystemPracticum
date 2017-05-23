@@ -9,7 +9,7 @@ import string
 import Tkinter
 import tkMessageBox
 
-server_ip = "10.8.3.145:5000"
+server_ip = "10.8.17.141:5000"
 
 def checkHotspot():
 	with open(os.devnull, 'w') as devnull:
